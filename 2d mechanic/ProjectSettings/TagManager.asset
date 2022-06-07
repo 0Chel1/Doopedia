@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Up
+    uniqueID: 3974299315
+    locked: 0
+  - name: UP UP
+    uniqueID: 1961227753
+    locked: 0

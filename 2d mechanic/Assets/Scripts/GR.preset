@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GR
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 5cf2f5a4ce2eb0a4e968323ae3436097, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: size.x
+    value: 40
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: size.y
+    value: 40
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: obj1
+    value: 
+    objectReference: {fileID: 2109066641515521154, guid: 786acf68a7acf9149a481f05f91aaddc, type: 3}
+  - target: {fileID: 0}
+    propertyPath: obj2
+    value: 
+    objectReference: {fileID: 2239921463255603762, guid: dfb71ea9cf577c14280236dabde9b179, type: 3}
+  - target: {fileID: 0}
+    propertyPath: obj3
+    value: 
+    objectReference: {fileID: 3173004005159818057, guid: 94424815cc1a3c44596331dc75b3d170, type: 3}
+  - target: {fileID: 0}
+    propertyPath: obj4
+    value: 
+    objectReference: {fileID: 1045456402382203986, guid: bda2c708dee05374fbde7ce9540fc59a, type: 3}
+  - target: {fileID: 0}
+    propertyPath: obj5
+    value: 
+    objectReference: {fileID: 5814301287376751455, guid: 0f3c233f794c25348b20bf2a9c319b54, type: 3}
+  - target: {fileID: 0}
+    propertyPath: obj6
+    value: 
+    objectReference: {fileID: 7009487499492565340, guid: 508dded360306e743954561511ae8e04, type: 3}
+  - target: {fileID: 0}
+    propertyPath: sid
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: n
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: zoom
+    value: 10
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []
